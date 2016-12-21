@@ -1,0 +1,9 @@
+c:\users\техносила\documents\visual studio 2013\Projects\CheckBrowserLogTestProject\CheckBrowserLogTestProject\bin\Release\CheckBrowserLogTestProject.dll
+c:\users\техносила\documents\visual studio 2013\Projects\CheckBrowserLogTestProject\CheckBrowserLogTestProject\bin\Release\CheckBrowserLogTestProject.pdb
+c:\users\техносила\documents\visual studio 2013\Projects\CheckBrowserLogTestProject\CheckBrowserLogTestProject\bin\Release\WebDriver.dll
+c:\users\техносила\documents\visual studio 2013\Projects\CheckBrowserLogTestProject\CheckBrowserLogTestProject\bin\Release\WebDriver.Support.dll
+c:\users\техносила\documents\visual studio 2013\Projects\CheckBrowserLogTestProject\CheckBrowserLogTestProject\bin\Release\WebDriver.xml
+c:\users\техносила\documents\visual studio 2013\Projects\CheckBrowserLogTestProject\CheckBrowserLogTestProject\bin\Release\WebDriver.Support.xml
+c:\users\техносила\documents\visual studio 2013\Projects\CheckBrowserLogTestProject\CheckBrowserLogTestProject\obj\Release\CheckBrowserLogTestProject.csprojResolveAssemblyReference.cache
+c:\users\техносила\documents\visual studio 2013\Projects\CheckBrowserLogTestProject\CheckBrowserLogTestProject\obj\Release\CheckBrowserLogTestProject.dll
+c:\users\техносила\documents\visual studio 2013\Projects\CheckBrowserLogTestProject\CheckBrowserLogTestProject\obj\Release\CheckBrowserLogTestProject.pdb
